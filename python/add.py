@@ -1,0 +1,1 @@
+def applyToEach(L,f):
